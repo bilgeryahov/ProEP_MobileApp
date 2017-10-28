@@ -5,3 +5,8 @@ script:
   - cd showme
   - npm install
   - npm test
+
+# Branches from which Travis CI will be triggered
+  branches:
+    only:
+    - master
