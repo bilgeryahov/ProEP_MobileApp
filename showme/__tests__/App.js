@@ -15,6 +15,6 @@ it('renders correctly', () => {
 
 describe('Example test', function () {
 	it('should return true if 2 (integer) is equal 2 (integer).', function () {
-		expect(2).to.equal(2);
+		expect(2).to.equal(23);
 	});
 });
