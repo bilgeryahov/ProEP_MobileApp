@@ -1,0 +1,3 @@
+[submodule "showme/vendor/react-native-pili"]
+	path = showme/vendor/react-native-pili
+	url = https://github.com/buhe/react-native-pili
